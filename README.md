@@ -4,11 +4,13 @@ This is a Final Project of a lecture in NCKU.
 This is the first time me and my teammates collab on unity via github, so we accidantly crashed the repo. The original commits and branches could be found at https://github.com/bullyee/UnityFinal.
 
 ========================================
-This is a game inspired by Suica Game, simply a Suica game but in 3D Graphics.
+
+This game is inspired by Suica Game, simply a Suica game but in 3D Graphics.
 I would like to mention https://soundcloud.com/sakuragirl_official for the musics i use in the game.
 Also, great thanks to the creators https://assetstore.unity.com/publishers/35697, https://assetstore.unity.com/publishers/57827 and https://assetstore.unity.com/publishers/62593 for the free unity assets i used.
 
 ========================================
+
 Gameplay 
 There is gameplay instruction button "?" in the top right corner in the first scene of the game.
 The "X" above it simply closes the game.
