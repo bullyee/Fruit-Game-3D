@@ -1,4 +1,4 @@
-# Fruit-Game-3D\n
+# Fruit-Game-3D
 This is a Final Project of a lecture in NCKU.  
   
 This is the first time me and my teammates collab on unity via github, so we accidantly crashed the repo. The original commits and branches could be found at https://github.com/bullyee/UnityFinal.  
