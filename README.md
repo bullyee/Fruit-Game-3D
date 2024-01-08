@@ -19,7 +19,8 @@ Shortly going through the gameplay instruction, WASD for movement, shift for slo
   
 =======================================  
   
-## **My Thanks**
+## **My Thanks**  
+First, I would give the greatest thanks to my teammates, https://github.com/MysSheng and https://github.com/ck10800766 for the UI and fruits model design.  
 This game is inspired by Suica Game, simply a Suica game but in 3D Graphics.  
 I would like to mention https://soundcloud.com/sakuragirl_official for the musics i use in the game.  
 Also, great thanks to the creators https://assetstore.unity.com/publishers/35697, https://assetstore.unity.com/publishers/57827 and https://assetstore.unity.com/publishers/62593 for the free unity assets i used.  
