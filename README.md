@@ -14,7 +14,7 @@ The branch https://github.com/bullyee/Fruit-Game-3D/tree/Download-Here contains 
 There is gameplay instruction button "?" in the top right corner in the first scene of the game.  
 The "X" above it simply closes the game.  
 To flip the page in the gameplay instruction, drag the bottom part of each page and flip it.  
-Shortly going through the gameplay instruction, WASD for movement, shift for slower movements, right key for ball drop, left key to toggle indicator, scroll for zoom in/out. 
+Shortly going through the gameplay instruction, WASD for movement, shift for slower movements, left key for ball drop, right key to toggle indicator, scroll for zoom in/out. 
   Pile them up in the box and Merge the same fruits - until they get bigger and bigger, and your score grows higher and higher!! If you have reached the top of the box (touch the red plane on top of it), the game ends.  
   
 =======================================  
