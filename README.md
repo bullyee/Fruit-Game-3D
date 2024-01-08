@@ -6,7 +6,7 @@ This is the first time me and my teammates collab on unity via github, so we acc
 ========================================  
   
 ## **Download The Game**
-The branch https://github.com/bullyee/Fruit-Game-3D/tree/Download-Here contains all neccessary files. Run "Fruits Game 3D.exe" to play the game.  
+The branch [https://github.com/bullyee/Fruit-Game-3D/tree/Download-Here](https://github.com/bullyee/Fruit-Game-3D/tree/DownloadHere) contains all neccessary files. Run "Fruits Game 3D.exe" to play the game.  
   
 ========================================  
   
